@@ -1,1 +1,1 @@
-# CHESS4TWO
+# Chess4Two
