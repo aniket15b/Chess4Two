@@ -1,1 +1,1 @@
-# LICPromo
+# CHESS4TWO
